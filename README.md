@@ -1,5 +1,6 @@
-This repository contains the Exam assignment of PhD Student Matteo Mocci for the Symbolic AI PhD Course on February 5th
-Exam
+This repository contains the Exam assignment of PhD Student Matteo Mocci for the Symbolic AI PhD Course on February 5th, implementing also the optional requirement.
+
+Exam text:
 
 Consider the following Counting game:
 
